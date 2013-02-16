@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  purchased_at: 2013-02-15 21:53:39
+  canceled_at: 2013-02-15 21:53:39
+  shipped_at: 2013-02-15 21:53:39
+
+two:
+  purchased_at: 2013-02-15 21:53:39
+  canceled_at: 2013-02-15 21:53:39
+  shipped_at: 2013-02-15 21:53:39
